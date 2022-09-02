@@ -1,2 +1,2 @@
 # testrepo
-For test purposes
+For demo purposes
